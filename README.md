@@ -49,13 +49,13 @@
 <body>
   <header>
     <h1>Sobrenatural</h1>
-    <p>Série de TV de drama, suspense e fantasia.</p>
+    <p> Gênero: Terror, drama, suspense e fantasia.</p>
   </header>
 
   <section>
     <h2>Sinopse</h2>
     <p>
-      Sobrenatural acompanha a jornada dos irmãos Sam e Dean Winchester enquanto caçam criaturas sobrenaturais, demônios, fantasmas e outras ameaças paranormais. A série mistura drama familiar, suspense e elementos de horror em uma aventura épica para proteger o mundo das forças do mal.
+      A serie Sobrenatural acompanha a jornada dos irmãos Sam e Dean Winchester, que viajam pelos Estados Unidos caçando criaturas sobrenaturais e protegendo as pessoas dessas ameaças. O foco principal é encontrar John Winchester, pai deles, do qual desapareceu, caçando o demônio que matou Mary, sua esposa e mãe dos meninos.
     </p>
   </section>
 
