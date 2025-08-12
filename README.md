@@ -49,7 +49,7 @@
 <body>
   <header>
     <h1>Sobrenatural</h1>
-    <p> Gênero: Terror, drama, suspense e fantasia.</p>
+    <p> Gênero: Terror, drama, suspense e fantasia. 15 temporadas- Ano:2005.</p>
   </header>
 
   <section>
@@ -70,9 +70,9 @@
   </section>
 
   <section>
-    <h2>Galeria</h2>
-    <img src="https://images.app.goo.gl/oALnfXH3x535bGBNA" alt="imagem da série Sobrenatural" />
-  </section>e
+    <h2> Trailer 1° Temporada </h2>
+    <img src="https://youtu.be/31A0DqX6jHI?si=eaMRW5rs2TSjtx_-" />
+  </section>
 
   
 </body>
