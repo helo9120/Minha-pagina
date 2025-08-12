@@ -71,7 +71,7 @@
 
   <section>
     <h2> Trailer 1° Temporada </h2>
-    <img src="https://youtu.be/31A0DqX6jHI?si=eaMRW5rs2TSjtx_-" />
+    < src="https://youtu.be/31A0DqX6jHI?si=eaMRW5rs2TSjtx_-" />
   </section>
 
   
